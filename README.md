@@ -1,7 +1,7 @@
 lbc2rss-node
 ============
 
-lbc2rss - node version
+http://lbc2rss.superfetatoire.com - node version
 
 Ce programme (mon premier en nodejs :p ) permet pour l'instant de parser les pages de recherche sur leboncoin.fr pour extraire les données des annonces en JSON.
 
